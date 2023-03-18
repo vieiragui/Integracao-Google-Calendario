@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fVCHwRffUMtIsQ0XNQYjiSyMxdHcrDMSfx0QKOmPD94=",
+  "Source": "IntegrationGoogleCalendar",
+  "BasePath": "_content/IntegrationGoogleCalendar",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

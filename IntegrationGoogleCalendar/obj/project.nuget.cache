@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "wPuWdmzBJG+ZZiAEczGhS6K7zxkTmaxz+j5Tos2O/ECOUFpiBQkRVFui41YK5pytuMTmrKKryjhihr8rDyV7Cg==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\GoogleCalendar\\IntegrationGoogleCalendar\\IntegrationGoogleCalendar\\IntegrationGoogleCalendar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilherme.vieira\\.nuget\\packages\\google.apis\\1.59.0\\google.apis.1.59.0.nupkg.sha512",
+    "C:\\Users\\guilherme.vieira\\.nuget\\packages\\google.apis.auth\\1.59.0\\google.apis.auth.1.59.0.nupkg.sha512",
+    "C:\\Users\\guilherme.vieira\\.nuget\\packages\\google.apis.calendar.v3\\1.59.0.2759\\google.apis.calendar.v3.1.59.0.2759.nupkg.sha512",
+    "C:\\Users\\guilherme.vieira\\.nuget\\packages\\google.apis.core\\1.59.0\\google.apis.core.1.59.0.nupkg.sha512",
+    "C:\\Users\\guilherme.vieira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\guilherme.vieira\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\guilherme.vieira\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\guilherme.vieira\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\guilherme.vieira\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\guilherme.vieira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\guilherme.vieira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
