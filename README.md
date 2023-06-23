@@ -1,4 +1,4 @@
-# Integracao Google Calendario
+# Integracao .Net Core com Google Calendrio
 
 Nesse projeto, mostro como integrar um sistema .Net Core com o Google Calendar.
 Em um dos projetos que participo, foi realizado essa integração para facilitar o uso dos clientes. Como é um sistema que controla e gerencia Leads, 
